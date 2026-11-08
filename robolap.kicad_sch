@@ -1,0 +1,262 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "958ae92a-99f4-4812-8b8e-b3458f26685b")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Pin header"
+		(exclude_from_sim no)
+		(at 170.18 98.9217 0)
+		(size 25.4 3.9483)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "133970ab-addc-44da-b4d9-8b2f4cf7dd5e")
+	)
+	(text_box "Motor Driver"
+		(exclude_from_sim no)
+		(at 143.51 110.49 0)
+		(size 15.24 15.24)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type color)
+			(color 0 0 0 0)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "17c85dd7-ef33-45b7-a90d-c9c7a4db27af")
+	)
+	(text_box "BMS"
+		(exclude_from_sim no)
+		(at 100.33 92.71 0)
+		(size 19.05 13.97)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "1d5caa07-4e3d-4450-aedc-a32a4ab5ce1e")
+	)
+	(text_box "Ultere sonic header"
+		(exclude_from_sim no)
+		(at 170.18 92.71 0)
+		(size 25.4 3.9483)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "3211be7f-068b-4ded-8b9b-1cc067e183d7")
+	)
+	(text_box "USB"
+		(exclude_from_sim no)
+		(at 78.74 76.2 0)
+		(size 19.05 30.48)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "45f2f698-a8d8-4e0a-8ec3-f2a9214ea3de")
+	)
+	(text_box "Motor Driver"
+		(exclude_from_sim no)
+		(at 143.51 57.15 0)
+		(size 15.24 15.24)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "610917c7-831f-4826-88a4-43dbefa70fc3")
+	)
+	(text_box "Speaker"
+		(exclude_from_sim no)
+		(at 170.18 76.2 0)
+		(size 15.24 13.97)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "74d8742d-b3a0-4ec0-b40d-38065e061f00")
+	)
+	(text_box "2S Battry"
+		(exclude_from_sim no)
+		(at 121.92 76.2 0)
+		(size 15.24 30.48)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "adc7c53c-82d3-43d6-a3d3-133bd9b5a08e")
+	)
+	(text_box "IC"
+		(exclude_from_sim no)
+		(at 143.51 76.2 90)
+		(size 21.59 30.48)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "b330da17-cd5a-4e3f-ad7c-076ddf129f54")
+	)
+	(text_box "Charger"
+		(exclude_from_sim no)
+		(at 100.33 76.2 0)
+		(size 19.05 13.97)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "e7cb1556-ee28-4071-b946-f4a75577dbaf")
+	)
+	(sheet
+		(at 31.75 99.06)
+		(size 22.86 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac76c88a-c559-4907-9293-d090ef10fd0f")
+		(property "Sheetname" "USB"
+			(at 31.75 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 31.75 139.0146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "robolap"
+				(path "/958ae92a-99f4-4812-8b8e-b3458f26685b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
