@@ -67,8 +67,30 @@
     "version": 5
   },
   "net_inspector_panel": {
-    "col_hidden": [],
-    "col_order": [],
+    "col_hidden": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "col_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "col_widths": [],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -85,7 +107,20 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "robolap.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 2,
+          "maximized": true,
+          "pos_x": 3860,
+          "pos_y": 0,
+          "size_x": 665,
+          "size_y": 749
+        }
+      }
+    ]
   },
   "schematic": {
     "hierarchy_collapsed": [],
